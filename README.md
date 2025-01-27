@@ -1,6 +1,6 @@
 **typescript-package-demo**
 
-A demo package for Total TypeScript.
+A demo package to publish on npm.
 
 Inspired from (https://www.totaltypescript.com/how-to-create-an-npm-package)[https://www.totaltypescript.com/how-to-create-an-npm-package]
 
