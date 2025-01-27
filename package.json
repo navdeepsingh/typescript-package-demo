@@ -1,6 +1,6 @@
 {
-  "name": "typescript-package-demo",
-  "version": "0.1.0",
+  "name": "@navdeepsingh/typescript-package-demo",
+  "version": "0.0.0",
   "description": "A demo package for Total Typescript",
   "keywords": [
     "[\"demo\"",
